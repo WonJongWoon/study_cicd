@@ -11,7 +11,7 @@ public class SampleController {
 
     @GetMapping
     public String welcome() {
-        return "Welcome to Spring Boot CI/CD";
+        return "Welcome to Spring Boot CI/CD Test";
     }
 
 }
